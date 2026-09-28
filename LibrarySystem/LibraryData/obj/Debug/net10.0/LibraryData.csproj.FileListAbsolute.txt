@@ -1,0 +1,12 @@
+D:\Codes\csharp\WebHW2\LibrarySystem\LibraryData\bin\Debug\net10.0\LibraryData.deps.json
+D:\Codes\csharp\WebHW2\LibrarySystem\LibraryData\bin\Debug\net10.0\LibraryData.dll
+D:\Codes\csharp\WebHW2\LibrarySystem\LibraryData\bin\Debug\net10.0\LibraryData.pdb
+D:\Codes\csharp\WebHW2\LibrarySystem\LibraryData\obj\Debug\net10.0\LibraryData.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codes\csharp\WebHW2\LibrarySystem\LibraryData\obj\Debug\net10.0\LibraryData.AssemblyInfoInputs.cache
+D:\Codes\csharp\WebHW2\LibrarySystem\LibraryData\obj\Debug\net10.0\LibraryData.AssemblyInfo.cs
+D:\Codes\csharp\WebHW2\LibrarySystem\LibraryData\obj\Debug\net10.0\LibraryData.csproj.CoreCompileInputs.cache
+D:\Codes\csharp\WebHW2\LibrarySystem\LibraryData\obj\Debug\net10.0\LibraryData.dll
+D:\Codes\csharp\WebHW2\LibrarySystem\LibraryData\obj\Debug\net10.0\refint\LibraryData.dll
+D:\Codes\csharp\WebHW2\LibrarySystem\LibraryData\obj\Debug\net10.0\LibraryData.pdb
+D:\Codes\csharp\WebHW2\LibrarySystem\LibraryData\obj\Debug\net10.0\ref\LibraryData.dll
+D:\Codes\csharp\WebHW2\LibrarySystem\LibraryData\obj\Debug\net10.0\LibraryData.csproj.AssemblyReference.cache
